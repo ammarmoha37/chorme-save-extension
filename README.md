@@ -23,3 +23,6 @@ Feel free to use the code or deploy the extension to your own browser.
 
 4- Click on load unpacked button and choose the folder.
 
+Now you have deployed the extension and can use it freely.
+
+If you have any questions please feel free to contact me. 

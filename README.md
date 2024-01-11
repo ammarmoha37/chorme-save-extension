@@ -13,15 +13,15 @@ Feel free to use the code or deploy the extension to your own browser.
 
 ### Deployment Steps
 
-1- Click on code button to download the code as zip. 
+- Click on code button to download the code as zip. 
 
-2- Extract the files in folder and make sure that the files are same as the files in the repo.
+- Extract the files in folder and make sure that the files are same as the files in the repo.
 
-2- Go to chrome://extensions/.
+- Go to chrome://extensions/.
 
-3- Activate the Developer mode in the top right.
+- Activate the Developer mode in the top right.
 
-4- Click on load unpacked button and choose the folder.
+- Click on load unpacked button and choose the folder.
 
 Now you have deployed the extension and can use it freely.
 
